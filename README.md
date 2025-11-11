@@ -97,7 +97,7 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-![alt text](../os-ex04.png)
+![alt text](image.png)
 
 
 
